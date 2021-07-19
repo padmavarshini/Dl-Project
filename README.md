@@ -1,1 +1,1 @@
-# Dl-Project
+# Cotton-Disease-Prediction-Deep-Learning
